@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="192" height="192" rx="38" fill="#FAFAF8"/>
+  <circle cx="96" cy="96" r="74" fill="none" stroke="#B8832A" stroke-width="8" stroke-dasharray="465" stroke-dashoffset="116" stroke-linecap="round" transform="rotate(-90 96 96)"/>
+  <circle cx="96" cy="96" r="52" fill="none" stroke="#ECEAE5" stroke-width="6"/>
+  <circle cx="96" cy="96" r="52" fill="none" stroke="#B8832A" stroke-width="6" stroke-dasharray="327" stroke-dashoffset="82" stroke-linecap="round" transform="rotate(-90 96 96)" opacity="0.6"/>
+  <text x="96" y="90" text-anchor="middle" font-family="serif" font-size="28" fill="#111110">सा</text>
+  <circle cx="96" cy="110" r="6" fill="#B8832A"/>
+</svg>
