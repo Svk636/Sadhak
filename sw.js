@@ -1,5 +1,5 @@
 /* ═══════════════════════════════════════════════════════════════════
-   साधक · Service Worker · v1
+   साधक · Service Worker · v2
    Cache strategy:
      • Shell assets (HTML, manifest, icons) → Cache-first, updated on install
      • Google Fonts CSS                       → Stale-while-revalidate
