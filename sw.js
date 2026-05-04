@@ -1,5 +1,5 @@
 /* ═══════════════════════════════════════════════════════════════════
-   साधक · Service Worker · v2
+   साधक · Service Worker · v3
    Cache strategy:
      • Shell assets (HTML, manifest, icons) → Cache-first, updated on install
      • Google Fonts CSS                       → Stale-while-revalidate
@@ -9,7 +9,7 @@
 
 'use strict';
 
-const CACHE_VERSION   = 'v2';
+const CACHE_VERSION   = 'v3';
 const SHELL_CACHE     = 'sadhak-shell-v2';
 const FONT_CACHE      = 'sadhak-fonts-v2';
 const CDN_CACHE       = 'sadhak-cdn-v2';
