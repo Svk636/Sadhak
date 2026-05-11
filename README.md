@@ -1,4 +1,4 @@
-# साधक (Sadhak) v5.0 — Complete Project README
+# साधक (Sadhak) v1 — Complete Project README
 
 > **What is this?** Sadhak is a mindful productivity app for one person's day. Think of it like a really smart daily planner that also has a timer, a diary, a scorecard, habit vows, and an AI coach — all packed into a single HTML file that works offline on your phone.
 
