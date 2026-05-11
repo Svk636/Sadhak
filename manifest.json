@@ -1,0 +1,56 @@
+{
+  "name": "साधक · Mindful Productivity",
+  "short_name": "साधक",
+  "description": "Deep work timer, journaling, AI roadmap planner and daily review — offline-capable 90-day discipline protocol.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#FAFAF8",
+  "theme_color": "#FAFAF8",
+  "lang": "mr",
+  "dir": "ltr",
+  "categories": ["productivity", "lifestyle", "health"],
+  "icons": [
+    {
+      "src": "icons/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/apple-touch-icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "180x180",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "आजचा दिवस सुरू करा",
+      "short_name": "Start Day",
+      "description": "Begin today's Sadhak session",
+      "url": "./?action=start"
+    },
+    {
+      "name": "Output Log",
+      "short_name": "Outputs",
+      "description": "Log today's outputs",
+      "url": "./?action=outputs"
+    }
+  ],
+  "prefer_related_applications": false
+}
