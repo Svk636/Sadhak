@@ -1,0 +1,52 @@
+{
+  "name": "साधक · Sadhak",
+  "short_name": "साधक",
+  "description": "Your Human Operating System — 18-Block daily productivity tracker with deep work timer, journaling, AI roadmap planning, and daily review. Works fully offline.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#FAFAF8",
+  "background_color": "#FAFAF8",
+  "lang": "mr",
+  "dir": "ltr",
+  "categories": ["productivity", "lifestyle", "health"],
+  "icons": [
+    {
+      "src": "icons/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/apple-touch-icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "180x180",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Start Today",
+      "short_name": "Start",
+      "description": "Open Sadhak and begin your first block",
+      "url": "./index.html",
+      "icons": [{ "src": "icons/icon-192.svg", "sizes": "192x192", "type": "image/svg+xml" }]
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
