@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" fill="none">
+  <!-- Background -->
+  <rect width="192" height="192" rx="40" fill="#FAFAF8"/>
+  <!-- Amber border ring -->
+  <rect x="4" y="4" width="184" height="184" rx="38" stroke="#B8832A" stroke-width="2" stroke-opacity="0.3"/>
+  <!-- Horizontal divider lines -->
+  <line x1="24" y1="112" x2="168" y2="112" stroke="#E0DDD7" stroke-width="1.5"/>
+  <!-- Sadhak Devanagari text - साधक -->
+  <text x="96" y="90" font-family="'Noto Sans Devanagari', serif" font-size="52" font-weight="700" text-anchor="middle" fill="#111110" letter-spacing="-1">साधक</text>
+  <!-- Sub label -->
+  <text x="96" y="136" font-family="'Courier New', monospace" font-size="14" font-weight="400" text-anchor="middle" fill="#888884" letter-spacing="4">SADHAK</text>
+  <!-- Amber dot accent -->
+  <circle cx="96" cy="158" r="3" fill="#B8832A"/>
+</svg>

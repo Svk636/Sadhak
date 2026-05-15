@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" fill="none">
+  <!-- Apple-style background — solid color works best -->
+  <rect width="180" height="180" rx="38" fill="#FAFAF8"/>
+  <!-- Amber border ring -->
+  <rect x="4" y="4" width="172" height="172" rx="35" stroke="#B8832A" stroke-width="2" stroke-opacity="0.35"/>
+  <!-- Sadhak text -->
+  <text x="90" y="108" font-family="'Noto Sans Devanagari', serif" font-size="72" font-weight="700" text-anchor="middle" fill="#111110">साधक</text>
+  <!-- Amber dot -->
+  <circle cx="90" cy="146" r="4" fill="#B8832A"/>
+</svg>
