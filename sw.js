@@ -1,8 +1,8 @@
 /**
- * SVK Life OS — Service Worker v1.1.0
+ * SVK Life OS — Service Worker v1.0.0
  */
 
-const CACHE_NAME = 'svk-lifeos-v1.1.0';
+const CACHE_NAME = 'svk-lifeos-v1.0.0';
 
 const PRECACHE_ASSETS = [
   './',
